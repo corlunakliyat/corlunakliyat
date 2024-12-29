@@ -1,7 +1,7 @@
 <h1 class="mb-1">Çorlu Nakliyat - 0554 131 59 60 - Evden Eve Nakliyat - Çorlu Şehirler Arası Nakliyat</h1>
 Hemen ŞİMDİR ARAYIN : 0554 131 59 60
 
-<a href="tel:05541315960" class="uk-button uk-button-primary uk-border-rounded uk-visible@m"><i class="fas fa-scroll uk-margin-small-right"></i>Hemen Ara</a>
+<a href="https://api.whatsapp.com/send?phone=905541315960&text=Merhaba%20%C3%87orlu%20Nakliye%20Fiyat%C4%B1%20Almak%20%C4%B0stiyorum%20!" class="uk-button uk-button-primary uk-border-rounded uk-visible@m"><i class="fas fa-scroll uk-margin-small-right"></i>Hemen Ara</a>
 
 <p>Çorlu nakliyat sektöründe yıllardır lider konumda bulunan firmamız, <strong>şehirler arası taşımacılık</strong> hizmetlerinde müşteri memnuniyetini ön planda tutmaktadır. Profesyonel ekibimiz, modern araç filomuz ve sigortalı taşımacılık çözümlerimizle eşyalarınızı güvenle yeni adresinize taşıyoruz.</p>
 <p>Taşınma veya yük taşıma ihtiyacı her zaman profesyonel bir hizmet gerektirir. Bu noktada Çorlu nakliye firmaları, kaliteli ve güvenilir çözümleri ile ön plana çıkar. Çorlu nakliye sektörü, özellikle bölgenin sanayi ve ticaret merkezlerinden biri olması nedeniyle oldukça gelişmiştir. Hem bireysel hem de kurumsal taşıma ihtiyaçlarında Çorlu nakliye firmaları tercih edilmektedir.
